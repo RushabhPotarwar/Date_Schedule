@@ -68,6 +68,10 @@ button{
     
 }
 
+.table{
+    width: 100%;
+}
+
 
 .table td{
     text-align: center;
@@ -86,4 +90,13 @@ th{
     text-align: center;
     padding: 1.3rem;
     border-bottom:solid 1px#232323;
+}
+
+.colFilter{
+    width: 70%;
+    height: 2vh;
+    margin-top: 0.4rem;
+    background-color: #5a5a5a;
+    color: aliceblue;
+    border: none;
 }
